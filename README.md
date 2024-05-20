@@ -1,2 +1,2 @@
 # Stock-Data-Analysis
-A stock data analysis tool which helps investors to analyze the past days data of a particular stock.   
+A stock data analysis tool which will help the investors to analyze the past days data of a particular stock.   
